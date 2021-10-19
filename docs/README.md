@@ -1,0 +1,1 @@
+uses [MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) 
